@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992091359829",
+    "project_id": "r6-events",
+    "storage_bucket": "r6-events.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992091359829:android:7280b1ca9a85e7550222dc",
+        "android_client_info": {
+          "package_name": "com.dino.r6events"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZr0-yBKAIRo8iz2L7tndla47Wb_fGHdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
